@@ -9,3 +9,5 @@ class Progression:
         if not isinstance(self.n, int):
             raise TypeError
         return an
+pr = Progression(5)
+print(pr.n_element())
