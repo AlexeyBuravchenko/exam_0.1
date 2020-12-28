@@ -11,3 +11,4 @@ class Progression:
         return an
 pr = Progression(5)
 print(pr.n_element())
+print('Hello, Alexey')
